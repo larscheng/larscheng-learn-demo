@@ -1,0 +1,25 @@
+server:
+  port: 9088
+
+spring:
+  application:
+    name: qiq-mqttlog
+
+mqtt:
+  #broker: ssl://172.31.31.10:8883                            #MQTT服务器地址，服务器实例
+  broker: tcp://54.169.10.201:1883                             #MQTT服务器地址，服务器实例
+  userName: singapore                                         #用户名
+  password: senthink123!                                      #密码
+  subTopic: lease/singapore/uplink/#                          #应用服务器订阅的消息主题
+  basePubTopic: lease/singapore/downlink/                     #应用服务器发布的基础消息主题
+  #caCrtFile: classpath:mqttcert-test/ca.cert.pem              #SSL根证书文件
+  #clientCrtFile: classpath:mqttcert-test/client.cert.pem      #SSL客户端证书文件
+  #clientKeyFile: classpath:mqttcert-test/client.key.pem       #SSL客户端证书密钥文件
+  #sslPassword: senthink_client
+
+logging:
+  level:
+    xatu.zsl: debug
+    org.springfromework.web: info
+    org.hibernate: error
+  file: log\qiqmqtt.log
