@@ -9,8 +9,12 @@ package behavioralmodel.simplefactorymode;
  */
 public class PowerVehicle implements Vehicle {
 
+    public PowerVehicle() {
+        info();
+    }
+
     public void info() {
-        System.out.println("感谢您购买xx牌助力车!!!");
+        System.out.println("感谢您购买xx牌汽油车!!!");
     }
 
 }

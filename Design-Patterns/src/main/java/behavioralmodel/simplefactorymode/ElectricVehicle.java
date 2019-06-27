@@ -9,6 +9,10 @@ package behavioralmodel.simplefactorymode;
  */
 public class ElectricVehicle implements Vehicle {
 
+    public ElectricVehicle() {
+        info();
+    }
+
     public void info() {
         System.out.println("感谢您购买xx牌电动车!!!");
     }
