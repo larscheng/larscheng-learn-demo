@@ -11,6 +11,7 @@ import createdmodel.simplefactorymode.Vehicle;
  * @date 2019/6/18 16:46
  */
 public class OldVehicelFactory implements VehicleCenterCompany {
+    @Override
     public Vehicle buyVehicle(int type) {
         Vehicle vehicle = null;
         if (type == 1) {

@@ -1,8 +1,5 @@
 package createdmodel.abstractfactorymode;
 
-import createdmodel.factorymethodmode.NewVehicelFactory;
-import createdmodel.factorymethodmode.OldVehicelFactory;
-import createdmodel.factorymethodmode.VehicleCenterCompany;
 import createdmodel.simplefactorymode.Vehicle;
 
 /**

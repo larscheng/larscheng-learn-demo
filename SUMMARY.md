@@ -15,8 +15,8 @@
       * [单例模式](Design-Patterns/src/main/java/createdmodel/singletonmode/README.md)  
       
   * [结构型模式](Design-Patterns/src/main/java/structuredmodel/README.md)
-      * [简单工厂模式]()  
-      * [工厂方法模式]()  
+      * [代理模式](Design-Patterns/src/main/java/structuredmodel/proxymode/README.md)  
+      * [适配器模式](Design-Patterns/src/main/java/structuredmodel/adaptermode/README.md)  
       * [抽象工厂模式]()  
       * [建造者模式]()    
       * [原型模式]()  

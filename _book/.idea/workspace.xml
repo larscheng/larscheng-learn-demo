@@ -2,32 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202695bf-75c9-425d-ba96-a9e359d332ce" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/ElecFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/ElecFitting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Fitting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolFitting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/AbstractBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/ComputerInstallerA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/ComputerInstallerB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/ElectricVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/ElectricVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/PowerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/PowerVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/ProxyVehicleCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompanyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/XVehicleCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitbook.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.gitbook.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Patterns/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/abstractfactorymode/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/abstractfactorymode/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/NewVehicelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/NewVehicelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/OldVehicelFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/OldVehicelFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/PowerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/PowerVehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_book/Design-Patterns/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/ElecFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/ElecFitting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Fitting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolFitting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/AbstractBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Boss.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/ComputerInstallerA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/ComputerInstallerB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/NewVehicelFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/OldVehicelFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/VehicleCenterCompany.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/prototypemode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/ElectricVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/PowerVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/SimpleVehicleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/VehicleCompany.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,107 +85,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/README.MD">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="336">
-                <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="189">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="63">
-                <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="17" />
+              <first_editor relative-caret-position="231">
+                <caret line="11" column="101" lean-forward="true" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-69">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-                <folding>
-                  <element signature="e#300#332#0" />
-                </folding>
+              <first_editor relative-caret-position="210">
+                <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="book.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/book.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CloneNotSupportedException.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/CloneNotSupportedException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/AbstractBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="357">
+                <caret line="17" column="15" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -204,27 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/Vehicle.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/SimpleVehicleFactory.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/VehicleCompany.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/TwoWheelVehicle.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/FourWheelVehicle.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/TwoFactory.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/VehicleCenterCompany.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/NewVehicelFactory.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/OldVehicelFactory.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/Test.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/info.md" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Wheels.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/NormalWheel.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/EleWheel.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/EleFactory.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/NormalFactory.java" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/README.md" />
-        <option value="$PROJECT_DIR$/Design-Patterns/README.md" />
-        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/README.md" />
-        <option value="$PROJECT_DIR$/redismq/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/redismq/pom.xml" />
         <option value="$PROJECT_DIR$/practice/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/practice/src/main/resources/application.yml" />
@@ -252,9 +180,30 @@
         <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/README.md" />
         <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Demo.java" />
         <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/book.json" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/Hungrysingleton.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/SingletonEnum.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/singletonmode/README.md" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/README/README.md" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/README.md" />
+        <option value="$PROJECT_DIR$/.gitbook.yaml" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/SimpleVehicleFactory.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/ElectricVehicle.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/PowerVehicle.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/OldVehicelFactory.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/abstractfactorymode/Test.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/NewVehicelFactory.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/XVehicleCompany.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompany.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/README.md" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/ProxyVehicleCompany.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompanyHandler.java" />
+        <option value="$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/Test.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -317,6 +266,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -353,15 +304,46 @@
             <path>
               <item name="zhengql-learn-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhengql-learn-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="createdmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhengql-learn-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengql-learn-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="createdmodel" type="462c0819:PsiDirectoryNode" />
+              <item name="singletonmode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhengql-learn-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengql-learn-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="structuredmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhengql-learn-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengql-learn-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Design-Patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="structuredmodel" type="462c0819:PsiDirectoryNode" />
+              <item name="proxymode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,12 +368,9 @@
     <property name="project.structure.proportion" value="0.14767025" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="behavioralmodel.abstractfactorymode" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.zhengql.practice.ExceptionDemo" />
     </key>
@@ -400,6 +379,9 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.redis.queue" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mygit\zhengql-learn-demo\practice\src\main\java\com\zhengql\practice\autoBox" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\mygit\zhengql-learn-demo\practice\target\classes\com\zhengql\practice\stringDemo" />
@@ -415,8 +397,8 @@
       <recent name="com.delay.mq.redisdelay.async" />
       <recent name="com.delay.mq.redisdelay.config" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\mygit\zhengql-learn-demo\practice\src\main\java\com\zhengql\practice\autoBox" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="behavioralmodel.abstractfactorymode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -431,7 +413,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="HashEqualsDemo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhengql.practice.stringDemo.HashEqualsDemo" />
       <module name="practice" />
@@ -443,46 +425,57 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RemoveOuterParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhengql.practice.leetcode.RemoveOuterParentheses" />
-      <module name="practice" />
+    <configuration name="SimpleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createdmodel.singletonmode.SimpleTest" />
+      <module name="Design-Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhengql.practice.leetcode.*" />
+          <option name="PATTERN" value="createdmodel.singletonmode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioralmodel.bulidermode.Test" />
+      <option name="MAIN_CLASS_NAME" value="structuredmodel.proxymode.Test" />
       <module name="Design-Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioralmodel.bulidermode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioralmodel.prototypemode.Test" />
-      <module name="Design-Patterns" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavioralmodel.prototypemode.*" />
+          <option name="PATTERN" value="structuredmodel.proxymode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioralmodel.factorymethodmode.Test" />
+      <option name="MAIN_CLASS_NAME" value="createdmodel.factorymethodmode.Test" />
       <module name="Design-Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioralmodel.factorymethodmode.*" />
+          <option name="PATTERN" value="createdmodel.factorymethodmode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createdmodel.bulidermode.Test" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createdmodel.bulidermode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="createdmodel.prototypemode.Test" />
+      <module name="Design-Patterns" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="createdmodel.prototypemode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -499,12 +492,12 @@
       </extension>
     </configuration>
     <configuration name="VehicleCompany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioralmodel.simplefactorymode.VehicleCompany" />
+      <option name="MAIN_CLASS_NAME" value="createdmodel.simplefactorymode.VehicleCompany" />
       <module name="Design-Patterns" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioralmodel.simplefactorymode.*" />
+          <option name="PATTERN" value="createdmodel.simplefactorymode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -606,19 +599,19 @@
       <item itemvalue="Spring Boot.MqttlogApplication" />
       <item itemvalue="Spring Boot.RedisdelayApplication" />
       <item itemvalue="Spring Boot.PracticeApplication" />
-      <item itemvalue="Application.RemoveOuterParentheses" />
       <item itemvalue="Application.VehicleCompany" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.SimpleTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.SimpleTest" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.VehicleCompany" />
       </list>
     </recent_temporary>
   </component>
@@ -673,7 +666,9 @@
       <workItem from="1561340335834" duration="726000" />
       <workItem from="1561425489989" duration="3935000" />
       <workItem from="1561512139429" duration="20691000" />
-      <workItem from="1561597675645" duration="1287000" />
+      <workItem from="1561597675645" duration="4691000" />
+      <workItem from="1561685616568" duration="11630000" />
+      <workItem from="1561943450644" duration="18870000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1560852178885</created>
@@ -689,7 +684,28 @@
       <option name="project" value="LOCAL" />
       <updated>1560852583121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新文档">
+      <created>1561956346067</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561956346067</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新文档">
+      <created>1561962343682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561962343682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更新文档">
+      <created>1561962471535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561962471535</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -725,10 +741,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="364961000" />
+    <option name="totallyTimeSpent" value="398865000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
@@ -736,12 +753,14 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" sideWeight="0.4989011" weight="0.25" />
       <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
       <window_info id="Structure" order="1" sideWeight="0.49336284" side_tool="true" weight="0.18710022" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4728682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4950166" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.39091915" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" />
@@ -749,22 +768,20 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46290144" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.60659343" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32890365" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50663716" visible="true" weight="0.20415778" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32890365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50663716" visible="true" weight="0.20842217" />
       <window_info anchor="right" id="Bean Validation" order="9" weight="0.32995737" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="15" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32779622" />
       <window_info id="Alibaba Cloud Explorer" order="8" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="5" sideWeight="0.4902507" side_tool="true" weight="0.18123667" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="10" sideWeight="0.50109893" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.82417583" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" sideWeight="0.4989011" weight="0.25" />
       <window_info anchor="right" id="Module Dependencies" order="7" weight="0.32995737" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.39091915" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32872927" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -817,7 +834,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="添加文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加文档" />
+    <MESSAGE value="更新文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新文档" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -828,11 +846,35 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/Test.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/Test.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompanyHandler.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompanyHandler.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="34" />
+      <option name="time" value="42" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -840,383 +882,903 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redisdelay/src/main/java/com/delay/mq/redisdelay/utils/RedisUtil.java">
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/singletonmode/HungrySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="310" column="47" selection-start-line="310" selection-start-column="42" selection-end-line="310" selection-end-column="47" />
+        <state relative-caret-position="420">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mqttlog/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="14" selection-start-line="14" selection-end-line="59" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Repository/org/projectlombok/lombok/1.16.20/lombok-1.16.20.jar!/lombok/Data.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Repository/org/projectlombok/lombok/1.16.20/lombok-1.16.20.jar!/lombok/extern/slf4j/Slf4j.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/TwoWheelVehicle.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/FourWheelVehicle.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/TwoFactory.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/VehicleCompany.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/SimpleVehicleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/NormalWheel.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/EleWheel.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/EleFactory.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/NormalFactory.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Wheels.java" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/README.md" />
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/OldVehicelFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/main/resources/bootstrap.yml" />
-    <entry file="file://$PROJECT_DIR$/redismq/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/behavioralmodel/singletonmode/HungrySingleton.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/VehicleCenterCompany.java">
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/behavioralmodel/singletonmode/SingletonEnum.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/singletonmode/SingletonEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="504">
+          <caret line="26" selection-start-line="8" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/NewVehicelFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/ElectricVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/ElecFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/ElecFitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Fitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolFitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/factorymethodmode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/simplefactorymode/PowerVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="820" column="17" selection-start-line="820" selection-start-column="17" selection-end-line="820" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/behavioralmodel/abstractfactorymode/Test.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/PetrolVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/abstractfactorymode/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="531">
-            <caret line="42" selection-start-line="42" selection-end-line="44" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-          <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#394#395#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/ComputerInstallerB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/ComputerInstallerA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/AbstractBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/bulidermode/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/CloneNotSupportedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/prototypemode/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="189">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/behavioralmodel/README.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="63">
-            <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/book.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="126">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/README/md.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="189">
+            <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/singletonmode/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="357">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.study.zhengql:Design-Patterns:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.study.zhengql:Design-Patterns:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.study.zhengql:Design-Patterns:1.0-SNAPSHOT</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.16.20</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="62.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="64" column="63" selection-start-line="64" selection-start-column="63" selection-end-line="64" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/ElectricVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/PowerVehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/createdmodel.simplefactorymode.SimpleVehicleFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>createdmodel.simplefactorymode.SimpleVehicleFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">createdmodel.simplefactorymode.SimpleVehicleFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="85.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/OldVehicelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/abstractfactorymode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/NewVehicelFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/createdmodel.factorymethodmode.VehicleCenterCompany">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>createdmodel.factorymethodmode.VehicleCenterCompany</OriginalElement>
+          <nodes>
+            <node x="" y="">createdmodel.factorymethodmode.VehicleCenterCompany</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="91.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/VehicleCenterCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/factorymethodmode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="62" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/createdmodel.factorymethodmode.NewVehicelFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>createdmodel.factorymethodmode.NewVehicelFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="103.0">createdmodel.factorymethodmode.NewVehicelFactory</node>
+            <node x="0.0" y="0.0">createdmodel.factorymethodmode.VehicleCenterCompany</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="createdmodel.factorymethodmode.NewVehicelFactory" target="createdmodel.factorymethodmode.VehicleCenterCompany">
+              <point x="0.0" y="-26.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="91.0" y="55.0" />
+          <SelectedNodes>
+            <node>createdmodel.factorymethodmode.NewVehicelFactory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/SimpleVehicleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/simplefactorymode/VehicleCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/createdmodel.simplefactorymode.VehicleCompany">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>createdmodel.simplefactorymode.VehicleCompany</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">createdmodel.simplefactorymode.VehicleCompany</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-430.5" y="-170.0" />
+          <SelectedNodes>
+            <node>createdmodel.simplefactorymode.VehicleCompany</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/singletonmode/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/createdmodel/singletonmode/SimpleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/createdmodel.singletonmode.HungrySingleton">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>createdmodel.singletonmode.HungrySingleton</OriginalElement>
+          <nodes>
+            <node x="" y="">createdmodel.singletonmode.HungrySingleton</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-430.5" y="-170.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/structuredmodel.proxymode.ProxyVehicleCompany">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>structuredmodel.proxymode.ProxyVehicleCompany</OriginalElement>
+          <nodes>
+            <node x="0.0" y="103.0">structuredmodel.proxymode.ProxyVehicleCompany</node>
+            <node x="55.5" y="0.0">structuredmodel.proxymode.VehicleCompany</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="structuredmodel.proxymode.ProxyVehicleCompany" target="structuredmodel.proxymode.VehicleCompany">
+              <point x="0.0" y="-61.5" />
+              <point x="0.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.1" x="-368.81818181818187" y="146.18181818181816" />
+          <SelectedNodes>
+            <node>structuredmodel.proxymode.ProxyVehicleCompany</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitbook.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/ProxyVehicleCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/XVehicleCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/structuredmodel/proxymode/VehicleCompanyHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <folding>
+            <element signature="e#0#877#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/structuredmodel/proxymode/XVehicleCompany.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/structuredmodel/proxymode/VehicleCompany.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/structuredmodel/proxymode/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/target/classes/structuredmodel/proxymode/ProxyVehicleCompany.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/structuredmodel.proxymode.VehicleCompanyHandler">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>structuredmodel.proxymode.VehicleCompanyHandler</OriginalElement>
+          <nodes>
+            <node x="" y="">structuredmodel.proxymode.VehicleCompanyHandler</node>
+            <node x="" y="">java.lang.reflect.InvocationHandler</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="95.0" y="55.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.reflect.InvocationHandler">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.reflect.InvocationHandler</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.reflect.InvocationHandler</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="77.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/reflect/InvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompanyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/structuredmodel.proxymode.VehicleCompany">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>structuredmodel.proxymode.VehicleCompany</OriginalElement>
+          <nodes>
+            <node x="0.0" y="103.0">structuredmodel.proxymode.ProxyVehicleCompany</node>
+            <node x="332.0" y="150.0">structuredmodel.proxymode.XVehicleCompany</node>
+            <node x="202.25" y="0.0">structuredmodel.proxymode.VehicleCompany</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="structuredmodel.proxymode.ProxyVehicleCompany" target="structuredmodel.proxymode.VehicleCompany">
+              <point x="0.0" y="-73.5" />
+              <point x="156.0" y="78.0" />
+              <point x="244.0" y="78.0" />
+              <point x="-41.75" y="26.5" />
+            </edge>
+            <edge source="structuredmodel.proxymode.XVehicleCompany" target="structuredmodel.proxymode.VehicleCompany">
+              <point x="0.0" y="-26.5" />
+              <point x="415.5" y="78.0" />
+              <point x="327.5" y="78.0" />
+              <point x="41.75" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-430.5" y="137.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/VehicleCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/reflect/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="225" column="19" lean-forward="true" selection-start-line="225" selection-start-column="19" selection-end-line="225" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.reflect.Proxy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.reflect.Proxy</OriginalElement>
+          <nodes>
+            <node x="1397.6570833333333" y="170.0">java.lang.reflect.GenericArrayType</node>
+            <node x="283.5" y="415.0">java.lang.reflect.Proxy</node>
+            <node x="0.0" y="170.0">java.lang.reflect.AnnotatedTypeVariable</node>
+            <node x="893.0" y="570.0">java.lang.reflect.Array</node>
+            <node x="204.0" y="170.0">java.lang.reflect.AnnotatedArrayType</node>
+            <node x="383.5" y="415.0">java.lang.reflect.GenericSignatureFormatError</node>
+            <node x="0.0" y="495.0">java.lang.reflect.Proxy.ProxyClassFactory</node>
+            <node x="16.125" y="730.0">java.lang.reflect.WeakCache.LookupValue</node>
+            <node x="1568.6570833333333" y="170.0">java.lang.reflect.WildcardType</node>
+            <node x="909.8629166666665" y="250.0">java.lang.reflect.Constructor</node>
+            <node x="234.5" y="650.0">java.lang.reflect.WeakCache.Factory</node>
+            <node x="208.125" y="730.0">java.lang.reflect.WeakCache.CacheValue</node>
+            <node x="1237.94875" y="80.0">java.lang.reflect.Parameter</node>
+            <node x="399.0" y="495.0">java.lang.reflect.Proxy.Key1</node>
+            <node x="975.3629166666665" y="170.0">java.lang.reflect.Executable</node>
+            <node x="172.0" y="495.0">java.lang.reflect.Proxy.Key2</node>
+            <node x="1045.8629166666665" y="250.0">java.lang.reflect.Method</node>
+            <node x="268.0" y="495.0">java.lang.reflect.Proxy.KeyFactory</node>
+            <node x="1059.94875" y="80.0">java.lang.reflect.GenericDeclaration</node>
+            <node x="1350.5" y="415.0">java.lang.reflect.ReflectPermission</node>
+            <node x="775.9487499999999" y="80.0">java.lang.reflect.AccessibleObject</node>
+            <node x="10.5" y="650.0">java.lang.reflect.WeakCache.CacheKey</node>
+            <node x="941.9487499999999" y="80.0">java.lang.reflect.Member</node>
+            <node x="1253.6570833333333" y="170.0">java.lang.reflect.TypeVariable</node>
+            <node x="330.44624999999985" y="80.0">java.lang.reflect.AnnotatedType</node>
+            <node x="631.0" y="170.0">java.lang.reflect.AnnotatedWildcardType</node>
+            <node x="621.5" y="415.0">java.lang.reflect.MalformedParametersException</node>
+            <node x="839.0" y="170.0">java.lang.reflect.Field</node>
+            <node x="1098.5" y="415.0">java.lang.reflect.UndeclaredThrowableException</node>
+            <node x="134.5" y="650.0">java.lang.reflect.WeakCache.Value</node>
+            <node x="116.5" y="570.0">java.lang.reflect.WeakCache</node>
+            <node x="876.5" y="415.0">java.lang.reflect.InvocationTargetException</node>
+            <node x="920.5" y="325.0">java.io.Serializable</node>
+            <node x="391.0" y="170.0">java.lang.reflect.AnnotatedParameterizedType</node>
+            <node x="1716.6570833333333" y="170.0">java.lang.reflect.ParameterizedType</node>
+            <node x="1560.2083333333335" y="80.0">java.lang.reflect.Type</node>
+            <node x="1520.5" y="415.0">java.lang.reflect.MalformedParameterizedTypeException</node>
+            <node x="750.0" y="570.0">java.lang.reflect.Modifier</node>
+            <node x="380.0" y="570.0">java.lang.reflect.InvocationHandler</node>
+            <node x="579.0" y="570.0">java.lang.reflect.ReflectAccess</node>
+            <node x="495.0" y="495.0">java.lang.reflect.Proxy.KeyX</node>
+            <node x="1053.19625" y="0.0">java.lang.reflect.AnnotatedElement</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.reflect.Executable" target="java.lang.reflect.GenericDeclaration">
+              <point x="36.666666666666686" y="-15.0" />
+              <point x="1067.0295833333332" y="150.0" />
+              <point x="1099.44875" y="150.0" />
+              <point x="-39.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Executable" target="java.lang.reflect.AccessibleObject">
+              <point x="-36.66666666666666" y="-15.0" />
+              <point x="993.6962499999998" y="140.0" />
+              <point x="885.4487499999999" y="140.0" />
+              <point x="36.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.AnnotatedWildcardType" target="java.lang.reflect.AnnotatedType">
+              <point x="0.0" y="-15.0" />
+              <point x="725.0" y="140.0" />
+              <point x="449.44624999999985" y="140.0" />
+              <point x="51.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.AccessibleObject" target="java.lang.reflect.AnnotatedElement">
+              <point x="0.0" y="-15.0" />
+              <point x="848.9487499999999" y="60.0" />
+              <point x="1099.3962499999998" y="60.0" />
+              <point x="-30.80000000000001" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WildcardType" target="java.lang.reflect.Type">
+              <point x="0.0" y="-15.0" />
+              <point x="1632.6570833333333" y="150.0" />
+              <point x="1607.7083333333335" y="150.0" />
+              <point x="9.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.AnnotatedParameterizedType" target="java.lang.reflect.AnnotatedType">
+              <point x="0.0" y="-15.0" />
+              <point x="501.0" y="150.0" />
+              <point x="415.44624999999985" y="150.0" />
+              <point x="17.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.TypeVariable" target="java.lang.reflect.AnnotatedElement">
+              <point x="0.0" y="-15.0" />
+              <point x="1315.6570833333333" y="130.0" />
+              <point x="1356.44875" y="130.0" />
+              <point x="1356.44875" y="50.0" />
+              <point x="1191.7962499999999" y="50.0" />
+              <point x="61.599999999999966" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.AnnotatedTypeVariable" target="java.lang.reflect.AnnotatedType">
+              <point x="0.0" y="-15.0" />
+              <point x="92.0" y="140.0" />
+              <point x="347.44624999999985" y="140.0" />
+              <point x="-51.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Proxy.ProxyClassFactory" target="java.lang.reflect.Proxy">
+              <point x="0.0" y="-15.0" />
+              <point x="76.0" y="465.0" />
+              <point x="291.5" y="465.0" />
+              <point x="-32.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.GenericDeclaration" target="java.lang.reflect.AnnotatedElement">
+              <point x="0.0" y="-15.0" />
+              <point x="1138.94875" y="60.0" />
+              <point x="1130.19625" y="60.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.ReflectPermission" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1425.5" y="385.0" />
+              <point x="1010.0714285714286" y="385.0" />
+              <point x="32.571428571428555" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.TypeVariable" target="java.lang.reflect.Type">
+              <point x="41.333333333333314" y="-15.0" />
+              <point x="1356.9904166666665" y="140.0" />
+              <point x="1569.7083333333335" y="140.0" />
+              <point x="-28.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.LookupValue" target="java.lang.reflect.WeakCache.Value">
+              <point x="31.0" y="-15.0" />
+              <point x="109.125" y="705.0" />
+              <point x="154.5" y="705.0" />
+              <point x="-20.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Field" target="java.lang.reflect.AccessibleObject">
+              <point x="-18.75" y="-15.0" />
+              <point x="857.75" y="150.0" />
+              <point x="812.4487499999999" y="150.0" />
+              <point x="-36.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.UndeclaredThrowableException" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1214.5" y="395.0" />
+              <point x="993.7857142857143" y="395.0" />
+              <point x="16.285714285714334" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Constructor" target="java.lang.reflect.Executable">
+              <point x="0.0" y="-15.0" />
+              <point x="967.8629166666665" y="225.0" />
+              <point x="1002.8629166666665" y="225.0" />
+              <point x="-27.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Executable" target="java.lang.reflect.Member">
+              <point x="0.0" y="-15.0" />
+              <point x="1030.3629166666665" y="150.0" />
+              <point x="1015.4487499999999" y="150.0" />
+              <point x="24.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.LookupValue" target="java.lang.reflect.WeakCache">
+              <point x="-31.0" y="-15.0" />
+              <point x="47.125" y="705.0" />
+              <point x="0.0" y="705.0" />
+              <point x="0.0" y="620.0" />
+              <point x="128.1" y="620.0" />
+              <point x="-46.400000000000006" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Field" target="java.lang.reflect.Member">
+              <point x="18.75" y="-15.0" />
+              <point x="895.25" y="150.0" />
+              <point x="966.4487499999999" y="150.0" />
+              <point x="-24.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.GenericSignatureFormatError" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="492.5" y="385.0" />
+              <point x="944.9285714285714" y="385.0" />
+              <point x="-32.571428571428555" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.CacheKey" target="java.lang.reflect.WeakCache">
+              <point x="0.0" y="-15.0" />
+              <point x="62.5" y="630.0" />
+              <point x="151.3" y="630.0" />
+              <point x="-23.19999999999999" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.Factory" target="java.lang.reflect.WeakCache">
+              <point x="0.0" y="-15.0" />
+              <point x="279.5" y="630.0" />
+              <point x="197.70000000000002" y="630.0" />
+              <point x="23.200000000000017" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Proxy.Key2" target="java.lang.reflect.Proxy">
+              <point x="0.0" y="-15.0" />
+              <point x="210.0" y="475.0" />
+              <point x="307.5" y="475.0" />
+              <point x="-16.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.MalformedParameterizedTypeException" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="1661.0" y="375.0" />
+              <point x="1026.357142857143" y="375.0" />
+              <point x="48.85714285714289" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Proxy.KeyFactory" target="java.lang.reflect.Proxy">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.ParameterizedType" target="java.lang.reflect.Type">
+              <point x="0.0" y="-15.0" />
+              <point x="1796.6570833333333" y="140.0" />
+              <point x="1626.7083333333335" y="140.0" />
+              <point x="28.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.Value" target="java.lang.reflect.WeakCache">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.AnnotatedArrayType" target="java.lang.reflect.AnnotatedType">
+              <point x="0.0" y="-15.0" />
+              <point x="287.5" y="150.0" />
+              <point x="381.44624999999985" y="150.0" />
+              <point x="-17.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.InvocationTargetException" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.MalformedParametersException" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="739.0" y="395.0" />
+              <point x="961.2142857142858" y="395.0" />
+              <point x="-16.28571428571422" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.AnnotatedType" target="java.lang.reflect.AnnotatedElement">
+              <point x="0.0" y="-15.0" />
+              <point x="398.44624999999985" y="50.0" />
+              <point x="1068.5962499999998" y="50.0" />
+              <point x="-61.60000000000002" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Proxy.KeyX" target="java.lang.reflect.Proxy">
+              <point x="0.0" y="-15.0" />
+              <point x="533.5" y="465.0" />
+              <point x="355.5" y="465.0" />
+              <point x="32.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.CacheValue" target="java.lang.reflect.WeakCache">
+              <point x="28.75" y="-15.0" />
+              <point x="294.375" y="705.0" />
+              <point x="335.0" y="705.0" />
+              <point x="335.0" y="620.0" />
+              <point x="220.90000000000003" y="620.0" />
+              <point x="46.400000000000034" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Method" target="java.lang.reflect.Executable">
+              <point x="0.0" y="-15.0" />
+              <point x="1092.8629166666665" y="225.0" />
+              <point x="1057.8629166666665" y="225.0" />
+              <point x="27.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Proxy" target="java.io.Serializable">
+              <point x="0.0" y="-15.0" />
+              <point x="323.5" y="375.0" />
+              <point x="928.6428571428571" y="375.0" />
+              <point x="-48.85714285714289" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.GenericArrayType" target="java.lang.reflect.Type">
+              <point x="0.0" y="-15.0" />
+              <point x="1473.1570833333333" y="150.0" />
+              <point x="1588.7083333333335" y="150.0" />
+              <point x="-9.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.WeakCache.CacheValue" target="java.lang.reflect.WeakCache.Value">
+              <point x="-28.75" y="-15.0" />
+              <point x="236.875" y="705.0" />
+              <point x="194.5" y="705.0" />
+              <point x="20.0" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Parameter" target="java.lang.reflect.AnnotatedElement">
+              <point x="0.0" y="-15.0" />
+              <point x="1291.94875" y="60.0" />
+              <point x="1160.99625" y="60.0" />
+              <point x="30.80000000000001" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.TypeVariable" target="java.lang.reflect.GenericDeclaration">
+              <point x="-41.33333333333337" y="-15.0" />
+              <point x="1274.32375" y="150.0" />
+              <point x="1178.44875" y="150.0" />
+              <point x="39.5" y="15.0" />
+            </edge>
+            <edge source="java.lang.reflect.Proxy.Key1" target="java.lang.reflect.Proxy">
+              <point x="0.0" y="-15.0" />
+              <point x="437.0" y="475.0" />
+              <point x="339.5" y="475.0" />
+              <point x="16.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="-342.00000000000006" y="153.99999999999994" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/structuredmodel.proxymode.Test">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>structuredmodel.proxymode.Test</OriginalElement>
+          <nodes>
+            <node x="10.0" y="74.0">structuredmodel.proxymode.ProxyVehicleCompany</node>
+            <node x="156.0" y="-142.0">structuredmodel.proxymode.Test</node>
+            <node x="5.0" y="126.0">structuredmodel.proxymode.VehicleCompanyHandler</node>
+            <node x="283.0" y="75.0">structuredmodel.proxymode.XVehicleCompany</node>
+            <node x="122.0" y="-4.0">structuredmodel.proxymode.VehicleCompany</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="structuredmodel.proxymode.ProxyVehicleCompany" target="structuredmodel.proxymode.VehicleCompany">
+              <point x="0.0" y="-15.0" />
+              <point x="102.0" y="51.0" />
+              <point x="158.0" y="51.0" />
+              <point x="-36.0" y="15.0" />
+            </edge>
+            <edge source="structuredmodel.proxymode.XVehicleCompany" target="structuredmodel.proxymode.VehicleCompany">
+              <point x="0.0" y="-15.0" />
+              <point x="286.0" y="51.0" />
+              <point x="230.0" y="51.0" />
+              <point x="36.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-466.5" y="53.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/structuredmodel.proxymode">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>structuredmodel.proxymode</OriginalElement>
+          <nodes>
+            <node x="" y="">structuredmodel.proxymode.ProxyVehicleCompany</node>
+            <node x="" y="">structuredmodel.proxymode.Test</node>
+            <node x="" y="">structuredmodel.proxymode.VehicleCompanyHandler</node>
+            <node x="" y="">structuredmodel.proxymode.XVehicleCompany</node>
+            <node x="" y="">structuredmodel.proxymode.VehicleCompany</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="174.0" y="316.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="357">
+            <caret line="17" column="15" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-69">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-            <folding>
-              <element signature="e#300#332#0" />
-            </folding>
+          <first_editor relative-caret-position="231">
+            <caret line="11" column="101" lean-forward="true" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design-Patterns/src/main/java/structuredmodel/proxymode/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
@@ -1281,7 +1843,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

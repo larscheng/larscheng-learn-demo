@@ -5,9 +5,9 @@ root: ./
 # Files to use as SUMMARY/README.
 # (Relative to <root> directory)
 structure:
-  readme: ./Design-Patterns/src/main/java/structuredmodel/README.md
-  summary: ./SUMMARY.md
+  readme: README.md
+  summary: SUMMARY.md
 
 # Redirect urls to specific files (relative to the <root> directory)
 redirects:
-  previous/page: new-folder/page.md
+  previous/page: README.md
