@@ -20,6 +20,8 @@
       * [桥接模式](Design-Patterns/src/main/java/structuredmodel/bridgemode/README.md)  
       * [装饰模式](Design-Patterns/src/main/java/structuredmodel/decoratormode/README.md)    
       * [外观模式](Design-Patterns/src/main/java/structuredmodel/facademode/README.md)  
+      * [享元模式](Design-Patterns/src/main/java/structuredmodel/flyweightmode/README.md)  
+      * [组合模式](Design-Patterns/src/main/java/structuredmodel/compositemode/README.md)  
       
   * [行为型模式]()
       * [责任链模式]()  
