@@ -9,11 +9,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/redismq/pom.xml" />
-        <option value="$PROJECT_DIR$/multithread/pom.xml" />
-        <option value="$PROJECT_DIR$/mqttlog/pom.xml" />
-        <option value="$PROJECT_DIR$/redisdelay/pom.xml" />
-        <option value="$PROJECT_DIR$/practice/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

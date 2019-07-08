@@ -163,6 +163,8 @@ public class CompositeModeTest1 {
 
 ### 模拟场景
 
+![](https://raw.githubusercontent.com/larscheng/myImg/master/blogImg/DesignPatterns/20190708162505.png)
+
 经典模拟场景，文件文件夹
 
 ```java
