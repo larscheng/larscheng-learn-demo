@@ -104,11 +104,12 @@ public class RedisMQ {
 
                             //异步执行具体业务
                             asyncTaskExecutor.executedDelayTask(message);
-                            logger.info("redisMq---->queue:[{}],清除队列中延时任务:[{}], 进入待消费状态", queue, message.toString());
-                        }else {
-                            logger.info("redisMq---->queue:[{}],清除队列中延时任务:[{}], 操作失败", queue, message.toString());
-                            logger.info("redisMq---->queue:[{}],清除队列中延时任务:[{}], 操作失败!!!!", queue, value);
+//                            logger.info("redisMq---->queue:[{}],清除队列中延时任务:[{}], 进入待消费状态", queue, message.toString());
                         }
+//                        else {
+//                            logger.info("redisMq---->queue:[{}],清除队列中延时任务:[{}], 操作失败", queue, message.toString());
+//                            logger.info("redisMq---->queue:[{}],清除队列中延时任务:[{}], 操作失败!!!!", queue, value);
+//                        }
                     }
                 }
             }

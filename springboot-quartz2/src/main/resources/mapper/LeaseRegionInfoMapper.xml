@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lars.www.mapper.LeaseRegionInfoMapper">
+
+	<resultMap id="BaseResultMap" type="com.lars.www.entity.LeaseRegionInfo">
+		<id column="id" property="id" />
+		<result column="region_name" property="regionName" />
+		<result column="region_country" property="regionCountry" />
+		<result column="case_id" property="caseId" />
+		<result column="status" property="status" />
+		<result column="region_gps" property="regionGps" />
+		<result column="center_lon" property="centerLon" />
+		<result column="center_lat" property="centerLat" />
+		<result column="graph_type" property="graphType" />
+		<result column="time_zone" property="timeZone" />
+		<result column="service_phone" property="servicePhone" />
+		<result column="operator_id" property="operatorId" />
+		<result column="gmt_create" property="gmtCreate" />
+	</resultMap>
+
+    <!-- 通用查询结果列-->
+    <sql id="Base_Column_List">
+        id, region_name AS regionName, region_country AS regionCountry, case_id AS caseId, status, region_gps AS regionGps, center_lon AS centerLon, center_lat AS centerLat, graph_type AS graphType, time_zone AS timeZone, service_phone AS servicePhone, operator_id AS operatorId, gmt_create AS gmtCreate
+    </sql>
+</mapper>

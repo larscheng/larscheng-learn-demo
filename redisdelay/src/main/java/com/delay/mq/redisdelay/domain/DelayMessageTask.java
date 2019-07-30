@@ -17,13 +17,13 @@ import java.util.List;
  * @author zhengql
  * @date 2018/12/10 11:10
  */
-@Component
+//@Component
 public class DelayMessageTask {
     private Logger logger = LoggerFactory.getLogger(getClass());
 
     @Resource private RedisMQ redisMQ;
 
-    @Scheduled(cron="*/1 * * * * *")
+//    @Scheduled(cron="*/1 * * * * *")
     public void sendMsg() {
         // 消费
         List<String> msgList = redisMQ.consume(redisMQ.getRoutes().get(0).getList());

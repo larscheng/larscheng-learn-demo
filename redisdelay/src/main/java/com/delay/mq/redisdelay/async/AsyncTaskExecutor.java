@@ -84,6 +84,10 @@ public class AsyncTaskExecutor {
                     //具体的业务
                     System.out.println("异步消费......" + message.getBody());
                     break;
+                case "topic":
+                    //具体的业务
+                    System.out.println("异步消费......" + message.getBody());
+                    break;
 
                 default:
                     logger.warn("redisMQ---->延时消息id: [{}]消费异常----->无效的topic: [{}]", message.getId(), topic);

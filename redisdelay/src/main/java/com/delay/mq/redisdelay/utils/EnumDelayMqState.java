@@ -11,6 +11,9 @@ import java.util.Map;
 
 public enum EnumDelayMqState {
 
+    /**
+     * 延时中
+     */
     WAITING(0, "延时中"),
 
     CHARGING(1, "等待执行"),

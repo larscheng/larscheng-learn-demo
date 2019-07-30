@@ -40,7 +40,7 @@ public class RedisMqService {
     private DelayMessage createMsg(Long delay) {
         JSONObject jObj = new JSONObject();
         String seqId = UUID.randomUUID().toString();
-        jObj.put("msg", "这是一条短信");
+        jObj.put("msg", "这是一条短信"+delay);
         jObj.put("seqId", seqId);
         // 将有效信息放入消息队列和消息池中
         DelayMessage message = new DelayMessage();
@@ -66,9 +66,9 @@ public class RedisMqService {
         DelayMessage message = createMsg(delay);
         Long score = message.getCreateTime() + message.getDelay() + message.getPriority();
         //加入redis消息队列
-        System.out.println(JSONArray.toJSON(message).toString());
+//        System.out.println(JSONArray.toJSON(message).toString());
         boolean b = redisUtil.zSetAdd(Constants.REDIS_MQ_QUEUE_TEST, JSONArray.toJSON(message).toString(), score);
-        logger.info("{}---redisMQ---->queue: [{}] ---->加入延时消息id: [{}],延时时间:[{}]", b, Constants.REDIS_MQ_QUEUE_TEST, message.getId(), message.getDelay());
+//        logger.info("{}---redisMQ---->queue: [{}] ---->加入延时消息id: [{}],延时时间:[{}]", b, Constants.REDIS_MQ_QUEUE_TEST, message.getId(), message.getDelay());
         return b ? Message.getSuccess() : Message.getError();
     }
 
