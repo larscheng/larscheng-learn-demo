@@ -12,7 +12,6 @@
     <modules>
         <module>multithread</module>
         <module>practice</module>
-        <module>Design-Patterns</module>
     </modules>
 
 

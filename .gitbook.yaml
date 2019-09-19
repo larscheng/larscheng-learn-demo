@@ -5,9 +5,9 @@ root: ./
 # Files to use as SUMMARY/README.
 # (Relative to <root> directory)
 structure:
-  readme: README.md
+  readme: README-info.md
   summary: SUMMARY.md
 
 # Redirect urls to specific files (relative to the <root> directory)
 redirects:
-  previous/page: README.md
+  previous/page: README-info.md
